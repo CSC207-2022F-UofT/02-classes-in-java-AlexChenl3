@@ -24,7 +24,6 @@ public class Silly implements Comparable<Silly>{
      * (Relevant reading: 2.1. Static variables)
      */
     public static int my_static = 0;
-
     // For comparison, this is a non-static attribute.
     public String name;
 
